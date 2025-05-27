@@ -26,6 +26,6 @@ public static void  Main(String[] args)
     Console.WriteLine("Execution after Singleton.");
 }
 
-// Singleton pattern is uses
+// Singleton pattern uses
 // Configuration Managers, Logging, Caching, Database Connections(careful)
 // Basically this is used in a case where we need to manage things centrally.
